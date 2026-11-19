@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/jl/canvas-grade-automation. Status: implemented.

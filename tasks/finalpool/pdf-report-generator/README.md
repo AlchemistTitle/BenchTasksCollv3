@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/jl/pdf-report-generator. Status: implemented.

@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/wenshuo/image-processor. Status: implemented.

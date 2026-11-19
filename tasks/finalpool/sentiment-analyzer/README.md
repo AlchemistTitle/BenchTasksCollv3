@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/lv/sentiment-analyzer. Status: implemented.

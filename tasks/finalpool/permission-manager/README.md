@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/yuzhen/permission-manager. Status: implemented.

@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/ruige/expense-tracker. Status: implemented.

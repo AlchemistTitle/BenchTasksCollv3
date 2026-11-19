@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/gyy/social-publisher. Status: implemented.

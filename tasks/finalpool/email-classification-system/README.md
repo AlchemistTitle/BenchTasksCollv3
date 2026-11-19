@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/jl/email-classification-system. Status: implemented.

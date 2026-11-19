@@ -1,0 +1,1 @@
+Implemented task aggregated into finalpool. Source: tasks/junxian/qr-generator. Status: implemented.
